@@ -7,8 +7,8 @@ of the community building benefits through discussion sessions and social time.
 
 The bootcamp is organized as a series of live video conferencing (ZOOM), prerecorded video
 lectures, hands-on exercises with online review options, and homework assignments.  The
-ideal flow of lessons and activities is provided in the "By Day" listing below.  A "By
-Topic" organization is provided for later review.
+ideal flow of lessons and activities is provided in the "By Day" listing below.
+A "By Topic" organization will be provided for later review.
 
 
 
@@ -17,9 +17,8 @@ Week 1
 
 * Day 1
 
-  * Welcome Message (fmk)
-  * SimCenter & NHERI & DesignSafe
-  * What is a computer? Programming philosophy (???)
+  * `Welcome Message and SimCenter Intro <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/BootCampIntro.pdf>`_
+  * `What is a computer? Programming philosophy <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/WhatIsComputer.pdf>`_
   * Python Basics
   * Data types
   * Loops
@@ -44,8 +43,8 @@ Week 1
 * Day 3
 
   * Homework #2 review
-  * Intro to Object Oriented Programming (OOP)  (fmk)
-  * Python OOP  (pmh)
+  * Intro to Object Oriented Programming (OOP)
+  * Python OOP 
   * Classes
   * Inheritance
   * Numeric data types: operator overload
@@ -55,21 +54,24 @@ Week 1
 * Day 4
 
   * Homework #3 review
-  * Python modules
-  * Organizing your code in files
-  * system call/subprocess
-  * Exercise: bringing python to the command line
+  * `Git <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/Git.pdf>`_
+  * Short remarks on
+
+      * Python modules
+      * Organizing your code in files
+      * system call/subprocess
+      * Exercise: bringing python to the command line
+
   * Python Web Scrabbing 
   * Assign Homework #4
   * TACC - logging in/linux basics (cd, ls, mkdir, ...)
 
 
-* Day 5: git and Intro to C
+* Day 5: `Intro to C <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/IntroToC.pdf>`_
 
   * Homework #4 review
-  * Git and GitHub
-  * Exercise: collaboration with git
-  * Intro to C
+
+  * Intro to C 
   * Compiling and debugging
   * Exercise: code, compile, debug
   * C 
@@ -79,31 +81,32 @@ Week 1
 Week 2
 ------
 
-* Day 6 - C: Memory Management & C: MPI
-
-  * C Memory Management
-  * C Functions
-  * Parallel Programming
-  * C: Message passing & OpenMPI
-  * Exercise
+* Day 6 - `Parallel Programming <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/Parallel.pdf>`_
 
 
-* Day 7 - C: OpenMP and C++
+  * Parallel Computers  
+  * MessagePassing & MPI
+  * Shared Memory & OpenMP
 
-  * C: Shared Memory & OpenMP
+* Day 7 - `C: Datatypes & C++ <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/Abstraction.pdf>`_
+
+  
+  * C Datatypes
   * Exercise
   * C++
   * Exercise
 
 
-* Day 8 - AI
+* Day 8 - `Machine Learning <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/MachineLearining.pdf>`_
+
 
   * Basics of Machine Learning
   * Popular Algorithms
   * Exercise
 
 
-* Day 9 - DesignSafe & Agave
+* Day 9 - `DesignSafe & Agave <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/Agave.pdf>`_
+
 
   * Review: Exercise
   * Intro to DesignSafe & Tapis
@@ -115,7 +118,9 @@ Week 2
 
 * Day 10
 
-  * Run Over Material
+
+  * `Building Graphic User Interfaces (GUI) using Qt5 <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/NHERI-SimCenter-GUI-Qt.pdf>`_
   * Overview of SimCenter Tools & Their Coding
+  * Closing Remarks
    
 
